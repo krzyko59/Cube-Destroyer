@@ -1,4 +1,4 @@
-# cube-destroyer
+# Cube Destroyer
 ![cube destroyer logo](https://github.com/krzyko59/cube-destroyer/blob/main/icon_xxxhdpi.png?raw=true)
 
 SILNIK: GAMEMAKER STUDIO<br />
