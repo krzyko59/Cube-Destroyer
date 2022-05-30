@@ -18,9 +18,10 @@ STEROWANIE WINDOWS:<br />
 ![cube destroyer screen 5](https://github.com/krzyko59/cube-destroyer/blob/main/screen_5.png?raw=true)
 ![cube destroyer screen 6](https://github.com/krzyko59/cube-destroyer/blob/main/screen_6.png?raw=true)
 ![cube destroyer screen 7](https://github.com/krzyko59/cube-destroyer/blob/main/screen_7.png?raw=true)
+## Zaimplementowane:
 2 rodzaje bossów co 1000 punktów<br />
 3 rodzaje przeciwników(zmiana przeciwnika po zniszczeniu bossa)<br />
-system tracenia paliwa w trakcie ruchu, oraz zdobywanie paliwa przez niszczenie przeciwnikow<br />
-lokalna tablica wynikow zapisywana do pliku i szyfrowana metoda xor, wyswietlana interaktywnie w trakcie gry za pomoca paskow<br />
-po zderzeniu z przeszkodą wlaczenie "tarczy" - zabiera 1000 paliwa, postać która sterujemy powieksza sie zwiekszając trudnosć omijania przeszkód<br />
+system tracenia paliwa w trakcie ruchu, oraz zdobywanie paliwa przez niszczenie przeciwników<br />
+lokalna tablica wyników zapisywana do pliku i szyfrowana metoda Xor, wyświetlana interaktywnie w trakcie gry za pomocą pasków<br />
+po zderzeniu z przeszkodą włączenie "tarczy" - zabiera 1000 paliwa, postać która sterujemy powiększa się zwiększając trudność omijania przeszkód<br />
 gra kończy się gdy mamy 0 paliwa<br />
